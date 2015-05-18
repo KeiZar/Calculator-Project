@@ -1,0 +1,6 @@
+D:\Personal Projects\Calculator\Main Calculator\bin\Debug\Main Calculator.exe.config
+D:\Personal Projects\Calculator\Main Calculator\bin\Debug\Main Calculator.exe
+D:\Personal Projects\Calculator\Main Calculator\bin\Debug\Main Calculator.pdb
+D:\Personal Projects\Calculator\Main Calculator\obj\Debug\Main Calculator.csprojResolveAssemblyReference.cache
+D:\Personal Projects\Calculator\Main Calculator\obj\Debug\Main Calculator.exe
+D:\Personal Projects\Calculator\Main Calculator\obj\Debug\Main Calculator.pdb
