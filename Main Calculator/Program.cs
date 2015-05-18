@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 
 class Program
@@ -25,10 +26,23 @@ class Program
                     result = firstNumber - secondNumber;
                     break;
                 }
+                case "*":
+                {
+                    result = firstNumber*secondNumber;
+                    break;
+                }
+                case "/":
+                {
+                    result = firstNumber/secondNumber;
+                    break;
+                }
 
             }
             Console.WriteLine(result);
+            Console.Write("Please enter new digits or end program with 'End':");
             input = Console.ReadLine().Split(' ');
+            firstNumber = int.Parse(input[0]);
+            secondNumber = int.Parse(input[2]);
         }
     }
 }
